@@ -1,0 +1,27 @@
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+h1 {
+    display: inline-block;
+    border-bottom: 1px solid #000;
+}
+
+li {
+    color: #5c5c5c;
+}
+
+.todo-item {
+     text-decoration-line: line-through;
+     text-decoration-color: #000;
+}
+
+.heading {
+    text-transform: uppercase;
+    text-shadow: 5px 3px #ccc;
+}
+
+.note {
+    font-weight: bold;
+    font-style: italic;
+}
